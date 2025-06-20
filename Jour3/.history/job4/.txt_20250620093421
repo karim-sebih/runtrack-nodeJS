@@ -1,0 +1,4 @@
+db.product.insertOne({
+    name: "pantalon noir",
+    descript:
+})

@@ -1,0 +1,7 @@
+use shop
+
+db.product.insertOne({
+    name: "chaussure",
+    description "une paire de chaussures",
+    
+})

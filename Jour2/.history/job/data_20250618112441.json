@@ -1,0 +1,20 @@
+"task": [
+    {
+        "id": 1,
+        "title": "Data Collection",
+        "description": "Gather data from various sources to build a comprehensive dataset.",
+        completed: false
+    },
+    {
+        "id": 2,
+        "title": "Appeler le plombier",
+        "description": "Prendre rendez-vous avec le plombier pour réparer le ro.",
+        completed: false
+    },
+    {
+        "id": 3,
+        "title": "Faire la vaiselle",
+        "description": "Laver les vetements et les draps",
+        completed: false
+    }
+]

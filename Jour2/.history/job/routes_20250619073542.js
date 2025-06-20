@@ -1,0 +1,4 @@
+server.on("request", (req, res) => {
+    if (req.url === "/users" && req.method === "GET") {
+    
+    }

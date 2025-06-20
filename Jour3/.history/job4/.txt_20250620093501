@@ -1,0 +1,13 @@
+db.product.insertOne({
+    name: "pantalon noir",
+    descript:"Un pantalon noir"
+    price:14.99,
+    quantity:12
+})
+
+db.product.insertOne({
+    name: "chausettes",
+    descript:"chausette coo"
+    price:14.99,
+    quantity:12
+})

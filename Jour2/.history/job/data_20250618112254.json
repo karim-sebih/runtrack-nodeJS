@@ -1,0 +1,23 @@
+"task": [
+    {
+        "id": 1,
+        "title": "Data Collection",
+        "description": "Gather data from various sources to build a comprehensive dataset.",
+        "status": "in-progress",
+        "assignedTo": "Alice"
+    },
+    {
+        "id": 2,
+        "title": "Data Cleaning",
+        "description": "Clean the collected data to remove inconsistencies and errors.",
+        "status": "not-started",
+        "assignedTo": "Bob"
+    },
+    {
+        "id": 3,
+        "title": "Data Analysis",
+        "description": "Analyze the cleaned data to extract meaningful insights.",
+        "status": "not-started",
+        "assignedTo": "Charlie"
+    }
+]

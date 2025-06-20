@@ -1,0 +1,4 @@
+db.product.updateMany(
+    {category: "bébé"},
+    { $set : { categorie :"vêtemenr"}}
+)

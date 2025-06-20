@@ -1,0 +1,20 @@
+"task": [
+    {
+        "id": 1,
+        "title": "Data Collection",
+        "description": "Gather data from various sources to build a comprehensive dataset.",
+        completed: false
+    },
+    {
+        "id": 2,
+        "title": "Data Cleaning",
+        "description": "Clean the collected data to remove inconsistencies and errors.",
+        completed: false
+    },
+    {
+        "id": 3,
+        "title": "FA",
+        "description": "Analyze the cleaned data to extract meaningful insights.",
+        completed: false
+    }
+]

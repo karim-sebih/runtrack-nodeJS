@@ -1,0 +1,8 @@
+db.category.insertOne({
+    InsertedIds :"1",
+})
+
+db.category.insertOne({
+    InsertedIds :"1",
+})
+
